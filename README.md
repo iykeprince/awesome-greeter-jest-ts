@@ -1,3 +1,3 @@
 # Awesome Greeter
 
-https://img.shields.io/endpoint?url=https://www.npmjs.com/package/awesome-greeter-jest-ts&color=blue
+https://img.shields.io/badge/npm-cool%20badge-orange
